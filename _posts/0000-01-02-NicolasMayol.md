@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Es muy fácil poner algunas palabras ** en negrita ** y otras palabras en * cursiva * con Markdown. Incluso puedes [vincular a Google] (http://google.com)
 Utiliza la flecha hacia la izquierda para volver!
